@@ -1,2 +1,2 @@
 # Smear-Detection
-Program to detect smear in the camera.
+Program to detect smear in the camera using OpenCV.
